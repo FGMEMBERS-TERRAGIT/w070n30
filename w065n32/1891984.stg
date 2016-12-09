@@ -1,4 +1,9 @@
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower.xml -64.7947085 32.2884034 -0.01 144
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower.xml -64.7864528 32.2894288 0 0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml -64.809031 32.2775242 -0.01 0
+OBJECT_SHARED Models/Maritime/Civilian/RNLI_Hovercraft.xml -64.8327513 32.2769803 -0.08 0
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -64.8264197 32.3163339 -0.04 146.24
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -64.8767 32.25 -0.01 353
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -64.8282025 32.3169295 -0.04 204.17
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -64.8117 32.3183 -0.18 289.85
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -64.8039492 32.2856014 -0.01 0
